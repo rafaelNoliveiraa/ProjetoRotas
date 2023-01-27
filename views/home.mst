@@ -12,7 +12,7 @@
 
 </style>
 <h2>Projeto Rotas</h2>
-<p>Com base no aprendizado da aula de Desenvolvimento web II dada pelo Professor Vinicius Heltai, este projeto vem com a finalidade do uso de 3 rotas, a principal, historico e horarios semanais este projeto esta sendo feito com nodeJS com a utilização dos fremework express e mostache</p>
+<p>Com base no aprendizado da aula de Desenvolvimento web II dada pelo Professor Vinicius Heltai, este projeto vem com a finalidade do uso de 3 rotas, a principal, historico e horarios semanais este projeto esta sendo feito com nodeJS com a utilização dos framework express e mostache</p>
 <hr/>
 <ul>
     <li>Esta é a Pagina principal! Tem como objetivo mostrar as rotas e descrição do projeto</li>
