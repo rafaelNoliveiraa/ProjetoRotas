@@ -1,0 +1,78 @@
+{{>header}}
+<style>
+td{ 
+    border: 1px grey solid;
+    font-size: 20pt;
+    }
+ h2{
+    font-size: 30pt;
+    margin-left: 41%;
+    color: blue;
+ }
+ table{
+    margin-left: 10%;
+ }
+</style>
+<h2> Horario Semanal 1ºsemestre 2023</h2>
+<table style='border:grey 1px solid'>
+    <tr>
+      <td>Horarios</td>
+      <td>SEG</td>
+      <td>TER</td>
+      <td>QUA</td>
+      <td>QUI</td>
+      <td>SEX</td>
+
+    </tr>
+    <tr>
+      <td>7:40</td>
+      <td>Gestão Agil de Projetos</td>
+      <td>Banco de dados Não Relacional</td>
+      <td>Desenvolvimento Web III</td>
+      <td>Álgebra linear</td>
+      <td>Técnica de Programação II</td>
+    </tr>
+    <tr>
+      <td>8:30</td>
+      <td>Gestão Agil de Projetos</td>
+      <td>Banco de Dados Não Relacional</td>
+      <td>Desenvolvimento Web III</td>
+      <td>Álgebra linear</td>
+      <td>Técnica de Programação II</td>
+    </tr>
+    <tr>
+      <td>9:40</td>
+      <td>Gestão Agil de Projetos</td>
+      <td>Banco de Dados Não Relacional</td>
+      <td>Desenvolvimento Web III</td>
+      <td>Álgebra linear</td>
+      <td>Técnica de Programação II</td>
+    </tr>
+    <tr>
+      <td>10:30</td>
+      <td>Gestão Agil de Projetos</td>
+      <td>Banco de Dados Não Relacional</td>
+      <td>Desenvolvimento Web III</td>
+      <td>Álgebra linears</td>
+      <td>Técnica de Programação II</td>
+      
+    </tr>
+    <tr>
+        <td>11:20</td>
+        <td></td>
+        <td>Inglês I</td>
+        <td>Interação Humano Computador</td>
+        <td></td>
+        <td></td>
+        
+      </tr>
+      <tr>
+        <td>12:10</td>
+        <td></td>
+        <td>Inglês I</td>
+        <td>Interação Humano Computador</td>
+        <td></td>
+        <td></td>
+        
+      </tr>
+  </table>

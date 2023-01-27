@@ -1,0 +1,21 @@
+{{>header}}
+<style>
+    ul{
+        font-size: 20pt;
+    }
+    p{
+        font-size: 20pt;
+    }
+    h2{
+        font-size: 30pt;
+    }
+
+</style>
+<h2>Projeto Rotas</h2>
+<p>Com base no aprendizado da aula de Desenvolvimento web II dada pelo Professor Vinicius Heltai, este projeto vem com a finalidade do uso de 3 rotas, a principal, historico e horarios semanais este projeto esta sendo feito com nodeJS com a utilização dos fremework express e mostache</p>
+<hr/>
+<ul>
+    <li>Esta é a Pagina principal! Tem como objetivo mostrar as rotas e descrição do projeto</li>
+    <li>Na rota /horarios vai direcionar para a grade de horários semanal do 1ºsemestre 2023</li>
+    <li>Na rota /historico mostra o hisórico dos 1º e 2º semestre de 2022 </li>
+</ul>

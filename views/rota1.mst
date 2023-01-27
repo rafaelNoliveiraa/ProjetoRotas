@@ -1,0 +1,105 @@
+{{>header}}
+<style>
+    
+    b{
+        color: green;
+        background-color: transparents;
+    }
+    ul{
+        color: black;
+    }
+    h2{
+        color: grey;
+    }
+</style>
+<h1 style='color:black;'>Histórico</h1>
+<h2>1º Semestre 2022</h2>
+<div style='border: 2px blue dashed'>
+    {{#materia1}}
+    <ul>
+        <li>
+            Nome: <b>{{nome}}</b> Status: <b>{{status}}</b> nota: <b>{{nota}}</b> frequência: <b>{{frequencia}}</b>
+        </li>
+    </ul>
+    {{/materia1}}
+    {{#materia2}}
+    <ul>
+        <li>
+            Nome: <b>{{nome}}</b> Status: <b>{{status}}</b> nota: <b>{{nota}}</b> frequência:<b>{{frequencia}}</b>
+        </li>
+    </ul>
+    {{/materia2}}
+    {{#materia3}}
+    <ul>
+        <li>
+            Nome: <b>{{nome}}</b> Status: <b>{{status}}</b> nota: <b>{{nota}}</b> frequência: <b>{{frequencia}}</b>
+        </li>
+    </ul>
+    {{/materia3}}
+    {{#materia4}}
+    <ul>
+        <li>
+            Nome: <b>{{nome}}</b> Status: <b>{{status}}</b> nota: <b>{{nota}}</b> frequência: <b>{{frequencia}}</b>
+        </li>
+    </ul>
+    {{/materia4}}
+    {{#materia5}}
+    <ul>
+        <li>
+            Nome: <b>{{nome}}</b> Status: <b>{{status}}</b> nota: <b>{{nota}}</b> frequência: <b>{{frequencia}}</b>
+        </li>
+    </ul>
+    {{/materia5}}
+    {{#materia6}}
+    <ul>
+        <li>
+            Nome: <b>{{nome}}</b> Status: <b>{{status}}</b> nota: <b>{{nota}}</b> frequência: <b>{{frequencia}}</b>
+        </li>
+    </ul>
+    {{/materia6}}
+</div>
+<h2>2º Semestre 2022</h2>
+<div style='border: 2px blue dashed'>
+    {{#materia7}}
+    <ul>
+        <li>
+            Nome: <b>{{nome}}</b> Status: <b>{{status}}</b> nota: <b>{{nota}}</b> frequência:<b>{{frequencia}}</b>
+        </li>
+    </ul>
+    {{/materia7}}
+    {{#materia8}}
+    <ul>
+        <li>
+            Nome: <b>{{nome}}</b> Status: <b>{{status}}</b> nota: <b>{{nota}}</b> frequência:<b>{{frequencia}}</b>
+        </li>
+    </ul>
+    {{/materia8}}
+    {{#materia9}}
+    <ul>
+        <li>
+            Nome: <b>{{nome}}</b> Status: <b>{{status}}</b> nota: <b>{{nota}}</b> frequência: <b>{{frequencia}}</b>
+        </li>
+    </ul>
+    {{/materia9}}
+    {{#materia10}}
+    <ul>
+        <li>
+            Nome: <b>{{nome}}</b> Status: <b>{{status}}</b> nota: <b>{{nota}}</b> frequência: <b>{{frequencia}}</b>
+        </li>
+    </ul>
+    {{/materia10}}
+    {{#materia11}}
+    <ul>
+        <li>
+            Nome: <b>{{nome}}</b> Status: <b>{{status}}</b> nota: <b>{{nota}}</b> frequência: <b>{{frequencia}}</b>
+        </li>
+    </ul>
+    {{/materia11}}
+    {{#materia12}}
+    <ul>
+        <li>
+            Nome: <b>{{nome}}</b> Status: <b>{{status}}</b> nota: <b>{{nota}}</b> frequência: <b>{{frequencia}}</b>
+        </li>
+    </ul>
+    {{/materia12}}
+</div>
